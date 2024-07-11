@@ -29,3 +29,14 @@ git clone https://github.com/aminelli/CORSO-OVED552-Cloudera.git
 | GIANNI     | http://40.85.88.39:9001/nifi/   |
 | ENZO       | http://52.236.35.23:9001/nifi/  |
 
+
+## SPARK
+
+| VM | NIFI ENDPOINT |
+|----|-----------|
+| DOCENTE    | http://40.87.152.123:9080 |
+| STEFANIA   | http://104.41.209.54:9080 |
+| ALESSANDRA | http://40.85.88.40:9080   |
+| EMANUELA   | http://13.79.99.78:9080   |
+| GIANNI     | http://40.85.88.39:9080   |
+| ENZO       | http://52.236.35.23:9080  |
