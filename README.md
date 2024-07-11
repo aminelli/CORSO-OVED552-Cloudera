@@ -20,7 +20,7 @@ git clone https://github.com/aminelli/CORSO-OVED552-Cloudera.git
 
 ## NIFI
 
-| VM | NIFI ENDPOINT |
+| VM | ENDPOINT |
 |----|-----------|
 | DOCENTE    | http://40.87.152.123:9001/nifi/ |
 | STEFANIA   | http://104.41.209.54:9001/nifi/ |
@@ -32,7 +32,7 @@ git clone https://github.com/aminelli/CORSO-OVED552-Cloudera.git
 
 ## SPARK
 
-| VM | NIFI ENDPOINT |
+| VM | ENDPOINT |
 |----|-----------|
 | DOCENTE    | http://40.87.152.123:9080 |
 | STEFANIA   | http://104.41.209.54:9080 |
