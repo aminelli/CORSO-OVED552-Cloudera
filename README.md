@@ -10,11 +10,11 @@ git clone https://github.com/aminelli/CORSO-OVED552-Cloudera.git
 
 | VM                    | IP            | USR   | PWD           | PORTAINER                 |
 | --------------------- | ------------- | ----- | ------------- | ------------------------- |
-| VM-OVED552-STEFANIA   | 104.41.209.54 | corso | Cloudera2024! | http://104.41.209.54:9000 |
-| VM-OVED552-ALESSANDRA | 40.85.88.40   | corso | Cloudera2024! | http://40.85.88.40:9000   |
-| VM-OVED552-EMANUELA   | 13.79.99.78   | corso | Cloudera2024! | http://13.79.99.78:9000   |
-| VM-OVED552-GIANNI     | 40.85.88.39   | corso | Cloudera2024! | http://40.85.88.39:9000   |
-| VM-OVED552-ENZO       | 52.236.35.23  | corso | Cloudera2024! | http://52.236.35.23:9000  |
+| VM-OVED552-STEFANIA   | 104.41.209.54 | corso | Cloudera2024! | http://104.41.209.54:9998 |
+| VM-OVED552-ALESSANDRA | 40.85.88.40   | corso | Cloudera2024! | http://40.85.88.40:9998   |
+| VM-OVED552-EMANUELA   | 13.79.99.78   | corso | Cloudera2024! | http://13.79.99.78:9998   |
+| VM-OVED552-GIANNI     | 40.85.88.39   | corso | Cloudera2024! | http://40.85.88.39:9998   |
+| VM-OVED552-ENZO       | 52.236.35.23  | corso | Cloudera2024! | http://52.236.35.23:9998  |
 
 
 ## NIFI
