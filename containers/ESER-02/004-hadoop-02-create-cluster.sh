@@ -37,6 +37,7 @@ docker run -d \
   --name     $CNT_DATANODE \
   --hostname $CNT_DATANODE \
   --network  $DOCKER_NETWORK \
+  -p 9864:9864 \
   -e SERVICE_PRECONDITION="$CNT_NAMENODE:9870" \
   -e CORE_CONF_fs_defaultFS=hdfs://$CNT_NAMENODE:9000 \
   -e YARN_CONF_yarn_log_server_url=http://$CNT_HISTORYSERVER:8188/applicationhistory/logs/ \
