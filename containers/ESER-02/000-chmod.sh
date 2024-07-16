@@ -5,5 +5,5 @@
 
 # chmod -R +x $HOME/docker 
 
-find $HOME/docker/CORSO-OVED552-Cloudera/containers/ESER-01 -name "*.sh" -exec chmod -R +x {} \;
+find $HOME/docker/CORSO-OVED552-Cloudera/containers/ -name "*.sh" -exec chmod -R +x {} \;
  
