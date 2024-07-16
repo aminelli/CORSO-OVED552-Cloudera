@@ -1,0 +1,85 @@
+Ecco un programma dettagliato di 4 giorni, con 8 ore per ogni giornata, focalizzato su Cloudera. Il programma include sia sessioni teoriche che pratiche, coprendo vari aspetti di Cloudera, dalla configurazione alla gestione dei dati.
+
+Giorno 1: Introduzione e Configurazione di Base
+
+Introduzione a Cloudera
+Cos'è Cloudera e quali problemi risolve
+Panoramica della piattaforma e delle sue componenti principali
+Architettura di Hadoop
+HDFS (Hadoop Distributed File System)
+MapReduce e YARN
+Differenze tra Hadoop e Cloudera
+Cloudera Manager
+Configurazione del Cluster
+Aggiunta di nodi al cluster
+Configurazione dei servizi di base (HDFS, YARN)
+Monitoraggio del Cluster
+Utilizzo di Cloudera Manager per monitorare il cluster
+Analisi dei log e dei metadati
+Gestione dei Servizi
+Configurazione e gestione dei servizi HDFS e YARN
+Ottimizzazione delle prestazioni
+
+
+Giorno 2: Data Ingestion e Processing
+Introduzione alla Data Ingestion
+Panoramica degli strumenti di ingestion (Flume, Sqoop, Kafka)
+Configurazione di Apache Flume
+Architettura di Flume
+Configurazione e utilizzo di Flume per l'ingestion di dati
+Configurazione di Apache Sqoop
+Architettura di Sqoop
+Introduzione ad Apache Kafka
+Architettura di Kafka
+Configurazione e utilizzo di Kafka per lo streaming di dati
+Processing con Apache Spark
+Introduzione ad Apache Spark
+Configurazione di Spark su Cloudera
+Spark RDD e DataFrame API
+Differenze tra RDD e DataFrame
+Esempi di utilizzo di entrambe le API
+
+
+Giorno 3: Data Analysis e Machine Learning
+Introduzione alla Data Analysis con Hive e Impala
+Panoramica di Hive e Impala
+Differenze e casi d'uso
+Configurazione di Apache Hive
+Architettura di Hive
+Esempi pratici di utilizzo di Hive
+Configurazione di Cloudera Impala
+Architettura di Impala
+Esempi pratici di utilizzo di Impala
+Introduzione a Apache HBase
+Architettura di HBase
+Configurazione e utilizzo di HBase
+Introduzione al Machine Learning con Spark MLlib
+Panoramica di Spark MLlib
+Esempi di algoritmi di machine learning
+Esercizi di Machine Learning
+Implementazione di un modello di machine learning con Spark MLlib
+Valutazione del modello
+
+
+Giorno 4: Sicurezza, Manutenzione e Best Practices
+Overview su altri prodotti dell'ecosistema Cloudera/Hadoop
+Introduzione alla Sicurezza su Cloudera
+Panoramica dei concetti di sicurezza
+Autenticazione e autorizzazione
+Configurazione di Kerberos
+Cos'è Kerberos
+Configurazione di Kerberos su Cloudera
+Protezione dei Dati
+Crittografia dei dati a riposo e in transito
+Configurazione della crittografia su Cloudera
+Manutenzione del Cluster
+Best practices per la manutenzione del cluster
+Backup e ripristino dei dati
+Ottimizzazione delle Prestazioni
+Monitoraggio delle prestazioni
+Ottimizzazione delle risorse
+Best Practices di Amministrazione
+Migliori pratiche per l'amministrazione di un cluster Cloudera
+Pianificazione della capacità
+
+
