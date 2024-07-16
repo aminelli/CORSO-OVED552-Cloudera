@@ -10,7 +10,7 @@ cd hadoop
 
 # NAME NODE
 echo "Creazione container NAME NODE"
-
+ 
 docker run -d \
   --name     $CNT_NAMENODE \
   --hostname $CNT_NAMENODE \
