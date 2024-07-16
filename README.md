@@ -23,6 +23,17 @@ git clone https://github.com/aminelli/CORSO-OVED552-Cloudera.git
 | - | - |
 | Hadoop | https://www.apache.org/dyn/closer.cgi/hadoop/common/hadoop-3.3.6/hadoop-3.3.6.tar.gz |
 
+## HADOOP
+
+| VM         | ENDPOINT                        |
+| ---------- | ------------------------------- |
+| DOCENTE    | http://52.178.192.185:9870      |
+| STEFANIA   | http://104.41.209.54:9870       |
+| ALESSANDRA | http://40.85.88.40:9870         |
+| EMANUELA   | http://13.79.99.78:9870         |
+| GIANNI     | http://40.85.88.39:9870         |
+| ENZO       | http://52.236.35.23:9870        |
+
 
 ## NIFI
 
