@@ -63,7 +63,9 @@ Password
 3rUhnQ6WG9
 
 === ZEPPELIN ===
+https://community.cloudera.com/t5/Support-Questions/Login-credentials-for-zeppelin-ui/m-p/229092
 https://community.cloudera.com/t5/Support-Questions/CDP-7-1-3-Zepplin-not-able-to-login-with-default-username/td-p/303717
+
 
 === HUE ===
 Username
